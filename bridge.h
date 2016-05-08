@@ -9,6 +9,6 @@
 #ifndef bridge_h
 #define bridge_h
 #import "Photo Search Example/AFNetworking/AFNetworking.h"
-
+#import "Photo Search Example/UIKit+AFNetworking/UIKit+AFNetworking.h"
 
 #endif /* bridge_h */
